@@ -1,8 +1,8 @@
 class CaveVm < Formula
   desc "Fast, disposable Linux VMs for coding agents on macOS"
   homepage "https://github.com/rolling7ho/cave-vm"
-  url "https://github.com/rolling7ho/cave-vm/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "d4e5619326ecdaf347b743571ac8dc80cf0889498cfa69410a8a2bc484484ed4"
+  url "https://github.com/rolling7ho/cave-vm/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "422beb1226a565d0dd185d4c15b4f66a8f3ab3db099fccaee9cbe3dfc89cf60a"
   license "Apache-2.0"
   head "https://github.com/rolling7ho/cave-vm.git", branch: "main"
 
